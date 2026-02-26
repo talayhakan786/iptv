@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" group-title="Ulusal",TRT 1
+#EXTINF:-1,Test
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="trtturk" tvg-name="TRT Türk" group-title="Ulusal",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
