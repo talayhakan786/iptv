@@ -1,28 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 -A-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal",TRT 1 -A-
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="trt1b" tvg-name="TRT 1 -B-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal",TRT 1 -B-
 https://heyheey.denek1544.workers.dev/izle/trt1-114.m3u8
-
 #EXTINF:-1 tvg-id="trtturk" tvg-name="TRT Türk -A-" tvg-logo="https://img.dsmartgo.com.tr/content/7/LM/13383/Thumbnail.png" group-title="Ulusal",TRT Türk -A-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="trtturkb" tvg-name="TRT Türk -B-" tvg-logo="https://img.dsmartgo.com.tr/content/7/LM/13383/Thumbnail.png" group-title="Ulusal",TRT Türk -B-
 https://ulusunkorkma.testworker0y.workers.dev/channel/VFJUIFTDvHJr
-
 #EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D -A-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D -A-
 https://heyheey.denek1544.workers.dev/izle/kanald-112.m3u8
-
 #EXTINF:-1 tvg-id="kanaldb" tvg-name="Kanal D -B-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D -B-
 https://ulusunkorkma.testworker0y.workers.dev/channel/S2FuYWwgRCB8IEE=
-
 #EXTINF:-1 tvg-id="kanaldc" tvg-name="Kanal D -C-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D -C-
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=c40673c58bc0fa0057743e1050115aa3
-
 #EXTINF:-1 tvg-id="showtv" tvg-name="Show Tv -A-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal",Show Tv -A-
 https://heyheey.denek1544.workers.dev/izle/showtv.m3u8
-
 #EXTINF:-1 tvg-id="showtvb" tvg-name="Show Tv -B-" tvg-logo="https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal",Show Tv -B-
 https://ulusunkorkma.testworker0y.workers.dev/channel/U2hvdyBUViB8IEE=
 
