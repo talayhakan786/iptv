@@ -1,19 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR/TURKIYE",TR| TRT 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=916657&extension=ts&play_token=5IEWZ4Fbtd
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912481.png" group-title="TR/TURKIYE",TR| TRT 1 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912441&extension=ts&play_token=n6wMm27HCm
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912465.png" group-title="TR/AVRUPA & YEREL",TR| KANAL 7 AVRUPA 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912465&extension=ts&play_token=YnGk1y0ImD
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912464.png" group-title="TR/AVRUPA & YEREL",TR| ATV AVRUPA 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912769&extension=ts&play_token=bG8ffD36gK
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912929.png" group-title="TR/HABER KANALLARI",TR| TRT HABER 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912929&extension=ts&play_token=VPc8BIeTqc
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912928.png" group-title="TR/HABER KANALLARI",TR| TRT HABER HD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912928&extension=ts&play_token=eADBULEuW2
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912927.png" group-title="TR/HABER KANALLARI",TR| A HABER 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912927&extension=ts&play_token=tKlfhD9H1h
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912926.png" group-title="TR/HABER KANALLARI",TR| A HABER HD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912926&extension=ts&play_token=lAwq1IyEqv
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912925.png" group-title="TR/HABER KANALLARI",TR| HABERTURK 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912930&extension=ts&play_token=OOzoXp0AgF
+#EXTINF:-1,***** TURK ULUSAL *****
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/37501
+#EXTINF:-1,TR:TRT 1 HD
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/88956
+#EXTINF:-1,TR:TRT 1 HD  [yedek]
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/104091
+#EXTINF:-1,***** TURK UHD *****
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/89356
+#EXTINF:-1,TR:TRT 4K UHD
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/89002
+#EXTINF:-1,TR:TRT 1 UHD
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/88957
+#EXTINF:-1,TR:TRT 1 UHD  [yedek]
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/104092
+#EXTINF:-1,***** TURK SPOR *****
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/37330
+#EXTINF:-1,TR:BEINSPORTS HABER HD
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/89354
+#EXTINF:-1,TR:GERMANY SPORTS 1 HD
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/105874
+#EXTINF:-1,TR:BEINSPORTS 1 HD (50FPS)
+http://germanyservers1.net:8080/servetustaer/dM2Pcbwj/89006
